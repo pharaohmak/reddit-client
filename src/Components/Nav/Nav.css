@@ -1,0 +1,44 @@
+.container {
+    border: 1px black solid;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+h1 {
+    color: black;
+    font-size: 2rem;
+    line-height: 0px;
+}
+
+.logo {
+    color: #e1584b;
+    font-size: 2rem;
+    margin: 0px 10px;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    margin: 0px 10px;
+}
+
+.search input {
+    width: 15rem;
+    margin: 7px 0px;
+}
+
+.search button {
+    background: none;
+    border: none;
+    color: black;
+    font-size: 1rem;
+    padding: 0px 10px;
+}
+
+.search button:hover {
+    color: #e1584b;
+}

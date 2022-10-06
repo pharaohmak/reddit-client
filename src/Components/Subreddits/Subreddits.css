@@ -1,0 +1,15 @@
+.subreddit {
+    border: 1px black solid;
+}
+
+.category {
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 2rem;
+    margin: 10px 10px;
+}
+
+.category:hover {
+    color: #e1584b;
+    cursor: pointer;
+}

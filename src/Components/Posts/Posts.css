@@ -1,0 +1,10 @@
+.post {
+    border: 1px black solid;
+}
+
+.postTitle {
+    font-size: 1.3rem;
+    font-weight: bold;
+    line-height: normal;
+    margin: 10px 10px;
+}
